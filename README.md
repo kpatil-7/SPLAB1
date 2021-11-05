@@ -1,6 +1,6 @@
 # SPLAB1
 ######################################################################
-This is my submission of SPLAB-1 for the course CS402 for Fall 2021
+This is my submission of SPLAB-1 for the course CS402 for Fall 2021 
 ######################################################################
 Instructions to build executible
 -> Open Linux terminal.
